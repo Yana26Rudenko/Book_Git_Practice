@@ -7,4 +7,5 @@ our second file
 now we have git enabled
 
 Edited this file
-Blah blah
+Blah blah blah
+
