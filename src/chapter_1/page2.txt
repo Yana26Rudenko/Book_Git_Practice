@@ -5,3 +5,6 @@ this is page 2 of chapter_1
 our second file
 
 now we have git enabled
+
+Edited this file
+Blah blah
