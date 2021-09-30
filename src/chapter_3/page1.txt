@@ -8,3 +8,5 @@ this is page 1
 new text for this page, working in day3
 
 new lines new lines new lines
+
+one more line
